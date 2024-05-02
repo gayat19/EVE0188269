@@ -1,0 +1,14 @@
+C:\Corp\TKA\EVE0188269\CmdApp\bin\Debug\net8.0\CmdApp.exe
+C:\Corp\TKA\EVE0188269\CmdApp\bin\Debug\net8.0\CmdApp.deps.json
+C:\Corp\TKA\EVE0188269\CmdApp\bin\Debug\net8.0\CmdApp.runtimeconfig.json
+C:\Corp\TKA\EVE0188269\CmdApp\bin\Debug\net8.0\CmdApp.dll
+C:\Corp\TKA\EVE0188269\CmdApp\bin\Debug\net8.0\CmdApp.pdb
+C:\Corp\TKA\EVE0188269\CmdApp\obj\Debug\net8.0\CmdApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Corp\TKA\EVE0188269\CmdApp\obj\Debug\net8.0\CmdApp.AssemblyInfoInputs.cache
+C:\Corp\TKA\EVE0188269\CmdApp\obj\Debug\net8.0\CmdApp.AssemblyInfo.cs
+C:\Corp\TKA\EVE0188269\CmdApp\obj\Debug\net8.0\CmdApp.csproj.CoreCompileInputs.cache
+C:\Corp\TKA\EVE0188269\CmdApp\obj\Debug\net8.0\CmdApp.dll
+C:\Corp\TKA\EVE0188269\CmdApp\obj\Debug\net8.0\refint\CmdApp.dll
+C:\Corp\TKA\EVE0188269\CmdApp\obj\Debug\net8.0\CmdApp.pdb
+C:\Corp\TKA\EVE0188269\CmdApp\obj\Debug\net8.0\CmdApp.genruntimeconfig.cache
+C:\Corp\TKA\EVE0188269\CmdApp\obj\Debug\net8.0\ref\CmdApp.dll

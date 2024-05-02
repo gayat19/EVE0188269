@@ -1,0 +1,8 @@
+Framework Versions
+https://learn.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-10
+
+Core Versions
+https://versionsof.net/core/
+
+Source code for core 6
+https://github.com/dotnet/core
